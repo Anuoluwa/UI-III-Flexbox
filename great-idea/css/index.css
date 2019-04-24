@@ -114,8 +114,9 @@ nav a {
 	line-height: 50px;
 }
 hr {
-	width: 92%;
-	margin: 10px 0 40px 0;
+	width: 95%;
+	margin: 30px 30px 40px 30px;
+	color: black;
 
 }
 
@@ -190,4 +191,54 @@ footer div {
 .copyright {
 	text-align: center;
 	width:100%;
+}
+
+/* services page styling*/
+
+.services {
+	margin: 50px 40px 20px 60px;
+	text-align: left;
+	font-size: 22px;
+	line-height: 25px;
+}
+
+.services-card {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+}
+
+.card {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	align-items: baseline;
+	margin: 30px 40px;
+	font-size: 22px;
+	line-height: 30px;
+}
+
+.box {
+	border: 1px solid black;
+	margin: 0 20px;
+	padding: 2rem;
+	background-color: whitesmoke;
+}
+
+.box button {
+	margin: 16px 0 0 0;
+	padding: 15px 45px;
+	border-radius: 8px;
+	color: black;
+	font-size: 20px;
+}
+
+.fact {
+	display: flex;
+	justify-content: space-between;
+	margin: 0 40px;
+}
+
+.fact-card  {
+
 }
