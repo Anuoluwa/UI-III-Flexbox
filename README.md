@@ -26,10 +26,19 @@ Once you have finished the home page using flex box module, go build the service
   * Update the title in your newly copied services page to say `Great Idea! - Services`
   * Using the provided [design file](design-files/services-desktop-design.png), create the services page layout using flexbox and box model.
   * Wrap the great idea logo in an anchor tag and point the `href` to `index.html`
-  
-  **Remember, you should continue using box model properties this whole time.  Flexbox is only used for bigger layout pieces.  You will still need content width, padding, border, and margins to succeed.**
 
-## Stretch Goals
+## Part Two:
+Go back and follow the same steps for your [UI-III-Flexbox project](https://github.com/LambdaSchool/UI-III-Flexbox) and your [User Interface - Great Idea Project](https://github.com/LambdaSchool/User-Interface).
 
-* [ ] Create another page based on one of the navigation items in addition to services.  Try to create a layout that follows the patterns of the first two designs but with your own creative twist.  Use lorem ipsum text for all your content.
-* [ ] Introduce media queries into your services page to create a mobile view that stacks all the boxes on top of each other on phone but looks like the layout file on desktop.
+In order to do this, you **do not** need to create new forks of these projects. Follow the steps below for each project:
+
+- [x] Add your PM as a collaborator to your fork. 
+- [x] Go into your project folder, make a new branch `firstname-lastname`
+- [x] Add your first and last name to the README.md file in the project and save.
+- [x] add/commit/and push to your own branch  **Be sure to push to your branch!**
+- [x] Create a Pull-Request to submit your work
+  - [x] Use your own student fork as the base (compare across forks, base-fork -> master).
+  - [x] Add your PM as a reviewer on the Pull-Request
+- [x] PM then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
+
+Anuoluwapo Apiti
